@@ -1,0 +1,9 @@
+F:\ФАСТ\2 курс\ЛПО\Polish\Polish\bin\Debug\Polish.exe.config
+F:\ФАСТ\2 курс\ЛПО\Polish\Polish\obj\Debug\Polish.csprojResolveAssemblyReference.cache
+F:\ФАСТ\2 курс\ЛПО\Polish\Polish\obj\Debug\Polish.Form1.resources
+F:\ФАСТ\2 курс\ЛПО\Polish\Polish\obj\Debug\Polish.Properties.Resources.resources
+F:\ФАСТ\2 курс\ЛПО\Polish\Polish\obj\Debug\Polish.csproj.GenerateResource.Cache
+F:\ФАСТ\2 курс\ЛПО\Polish\Polish\bin\Debug\Polish.exe
+F:\ФАСТ\2 курс\ЛПО\Polish\Polish\bin\Debug\Polish.pdb
+F:\ФАСТ\2 курс\ЛПО\Polish\Polish\obj\Debug\Polish.exe
+F:\ФАСТ\2 курс\ЛПО\Polish\Polish\obj\Debug\Polish.pdb
